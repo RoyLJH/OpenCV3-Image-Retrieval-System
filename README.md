@@ -15,7 +15,7 @@ This system includes 5 CBIR (content-based image retrieval) method.
 
 This system is the course design for Searching Technology (2018 Fall, Advisor: Prof.Li Lian)
 
-~~(I will not tell you I have done this in 24 hours)~~
+~~(I'm not going to tell you I completed this in 24 hours)~~
 
 If you want to know more about how this system is built or how each method performs , have a look at presention.pptx.
 
@@ -33,6 +33,6 @@ OpenCV 3.1.0
 4.Use Retrieval_xxx() method to show the most matched result in your library to your chosen picture.
 
 # Future work
-1.Update more methods to do content-based image retrieval. (Including deep network)
+1.Update more methods to do content-based image retrieval. (Including deep neural network)
 
-2.Develop a user interaction framework (using QT maybe) , to guide the user choose picture and visualize the result.
+2.Design a user interaction framework (using QT maybe) , to guide the user ti choose pictures and visualize the result.
